@@ -19,10 +19,9 @@ header {
   font-size: 20px;
   padding: 10px;
   background-color: #020202f6;
-
 }
 
-h1{
+h1 {
   text-align: center;
 }
 div.class-header {
@@ -33,34 +32,6 @@ div.class-header {
   padding-bottom: 100px;
 }
 
-
-article {
-  text-align: center;
-  border: #c0cc1c solid 10px;
-  margin-bottom: 20px;
-  border-radius: 20px;
-  margin: 20px;
-  }
-
-article.article-2{order: 0;
-  width:500px;
-
-}
-
-article.article-1{ order: 2;
-  width:500px;
-
-}
-  article.mario1{order:2
-
-  }
-
-
-article.Kombat-article-1{
-    order:3
-  }
-  
-
 section {
   border: #ffffff solid 10px;
   background-color: #020202c0;
@@ -68,8 +39,31 @@ section {
   padding: 10px;
   display: flex;
   overflow: auto;
+}
 
+article {
+  text-align: center;
+  border: #c0cc1c solid 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  margin: 20px;
+}
 
+article.article-2 {
+  order: 0;
+  width: 500px;
+}
+
+article.article-1 {
+  order: 2;
+  width: 500px;
+}
+article.mario1 {
+  order: 2;
+}
+
+article.Kombat-article-1 {
+  order: 3;
 }
 
 h2 {
@@ -84,12 +78,9 @@ h2 {
 
 .h2-1-1 {
   align-self: center;
-  order:2;
-  
-
+  order: 2;
+  text-align: center;
 }
-
-
 
 h3 {
   text-align: center;
@@ -98,7 +89,6 @@ h3 {
   background-color: #387c2f36;
   margin: 10px;
 }
-
 
 p {
   background-color: #19d638;
@@ -171,12 +161,12 @@ footer {
   align-items: center;
 }
 
-.img3{width:50%;
+.img3 {
+  width: 50%;
   float: left;
-
 }
 
-.img4{width:50%;
+.img4 {
+  width: 50%;
   float: right;
-
 }
