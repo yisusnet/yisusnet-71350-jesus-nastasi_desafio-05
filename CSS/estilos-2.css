@@ -33,13 +33,25 @@ div.class-header {
   padding-bottom: 100px;
 }
 
+
 article {
   text-align: center;
   border: #c0cc1c solid 10px;
   margin-bottom: 20px;
   border-radius: 20px;
   margin: 20px;
+  }
+
+article.article-2{order: 0;
+  width:500px;
+
 }
+
+article.article-1{ order: 2;
+  width:500px;
+
+}
+
 section {
   border: #ffffff solid 10px;
   background-color: #020202c0;
@@ -47,6 +59,8 @@ section {
   padding: 10px;
   display: flex;
   overflow: auto;
+
+
 }
 
 h2 {
@@ -54,7 +68,6 @@ h2 {
   background-color: #020202f6;
   margin: 10px;
   word-spacing: 20px;
-  letter-spacing: 10px;
   border-radius: 20px;
   padding: 10px;
   font-size: 30px;
@@ -63,7 +76,12 @@ h2 {
 
 .h2-1-1 {
   align-self: center;
+  order:2;
+  
+
 }
+
+
 
 h3 {
   text-align: center;
