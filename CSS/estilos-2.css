@@ -1,0 +1,156 @@
+body {
+  background-image: url(/img/fondo-body-2.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: "Bungee Spice", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+header {
+  border: #ffffff solid 10px;
+  margin: 10px;
+  border-radius: 20px;
+  font-size: 20px;
+  padding: 10px;
+  background-color: #020202f6;
+
+}
+
+h1{
+  text-align: center;
+}
+div.class-header {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+article {
+  text-align: center;
+  border: #c0cc1c solid 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  margin: 20px;
+}
+section {
+  border: #ffffff solid 10px;
+  background-color: #020202c0;
+  border-radius: 20px;
+  padding: 10px;
+  display: flex;
+  overflow: auto;
+}
+
+h2 {
+  border: #ffffff solid 10px;
+  background-color: #020202f6;
+  margin: 10px;
+  word-spacing: 20px;
+  letter-spacing: 10px;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 30px;
+  order: 0;
+}
+
+.h2-1-1 {
+  align-self: center;
+}
+
+h3 {
+  text-align: center;
+  border: #ffffff solid 10px;
+  border-radius: 20px;
+  background-color: #387c2f36;
+  margin: 10px;
+}
+
+
+p {
+  background-color: #19d638;
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Lilita One", sans-serif;
+  padding: 10px;
+  border: 10px solid;
+}
+
+img {
+  width: 300px;
+  border: black solid 10px;
+  margin: 20px;
+  border-radius: 50px;
+}
+
+a {
+  background-color: #f5dc00;
+  border-radius: 15px;
+  padding: 20px;
+  width: fit-content;
+  text-align: center;
+  text-decoration: none;
+  font-family: "Bungee Spice", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  margin-top: 20px;
+}
+a:visited {
+  background-color: #0780214b;
+}
+a:hover {
+  background-color: #aaec0f;
+}
+a:active {
+  background-color: black;
+}
+
+.link1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #02020200;
+  border: solid 1px #02020200;
+}
+
+footer {
+  border: #ffffff solid 10px;
+  border-radius: 20px;
+  padding: 40px;
+  text-align: center;
+  background-color: rgba(90, 69, 69, 0.5);
+  background-color: #020202f6;
+  font-size: 30px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 40px;
+}
+
+.pago-existoso {
+  width: 500px;
+  margin-top: 50px;
+}
+
+.pago-exitosobody {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img3{width:50%;
+  float: left;
+
+}
+
+.img4{width:50%;
+  float: right;
+
+}
