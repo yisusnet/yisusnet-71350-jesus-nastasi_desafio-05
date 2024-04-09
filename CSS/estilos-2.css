@@ -51,6 +51,15 @@ article.article-1{ order: 2;
   width:500px;
 
 }
+  article.mario1{order:2
+
+  }
+
+
+article.Kombat-article-1{
+    order:3
+  }
+  
 
 section {
   border: #ffffff solid 10px;
@@ -71,7 +80,6 @@ h2 {
   border-radius: 20px;
   padding: 10px;
   font-size: 30px;
-  order: 0;
 }
 
 .h2-1-1 {
