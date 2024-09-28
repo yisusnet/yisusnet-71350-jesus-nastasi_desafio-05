@@ -1,4 +1,4 @@
-## Fecha de entrega:08/04/204 
+
 ## Nombre: JESUS NASTASI
 ## BOTCAMP:  71370
 ## Repositorio de GITHUB:
